@@ -1,4 +1,4 @@
-![Alt Text](C:\Users\Lenovo\Desktop\tips)
+![**TIPS DATASET ANALYSIS**](C:\Users\Lenovo\Desktop\tips)
 **TIPS DATASET ANALYSIS**
 
 ## OBJECTIVE
