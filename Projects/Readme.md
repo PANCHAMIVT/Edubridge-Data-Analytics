@@ -14,8 +14,10 @@ Python3 , Data Analysis, Statistical Modeling, Data Visualization, Statistics,tk
 
  ### Data Analysis and Visualization :
 
-  * [Exploratory Data Analysis of Automobile]https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
-  * Exploratory Data Analysis of Waiter's tips in Hotel
+  * [Exploratory Data Analysis of Automobile]
+  (https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
+  * [Exploratory Data Analysis of Waiter's tips in Hotel]
+  (https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb)
   * Craeting Simple calculator by using 'tkinder'
   * Creating a Simple Game
   * Projects based on Statistics
