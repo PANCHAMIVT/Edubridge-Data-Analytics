@@ -21,7 +21,13 @@ Python3 , Data Analysis, Statistical Modeling, Data Visualization, Statistics,tk
   [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb](link)
   
   * Craeting Simple calculator by using 'tkinder'
-  * Creating Simple Game [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb](link)
-  * Hotel Management System [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb](link)
+  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb](link)
+  
+  * Creating Simple Game 
+  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb](link)
+  
+  * Hotel Management System 
+  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb](link)
+  
   * Projects based on Statistics
 
