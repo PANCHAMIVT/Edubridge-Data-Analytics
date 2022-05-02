@@ -13,8 +13,7 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 
  #### Data Analysis and Visualization :
 <html>
-  <head>
-    <h1> EDA
+ 
       <u1>
         <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"
   * Exploratory Data Analysis of Automobile
