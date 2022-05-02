@@ -12,9 +12,12 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 ### Contents
 
  #### Data Analysis and Visualization :
-
+<html>
+  <h2>contents</h2>
+      <u1>
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"
   * Exploratory Data Analysis of Automobile
-  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb](link)
+ 
   
   * Exploratory Data Analysis of Waiter's tips in Hotel
   [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb](link)
