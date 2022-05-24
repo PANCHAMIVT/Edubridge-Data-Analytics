@@ -15,8 +15,8 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 <html>
   <h2>contents</h2>
       <u1>
-        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"
-  * Exploratory Data Analysis of Automobile
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
+  
  
   
   * Exploratory Data Analysis of Waiter's tips in Hotel
