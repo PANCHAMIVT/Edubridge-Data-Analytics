@@ -14,24 +14,35 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>1)Assignments</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>2)Projects</a>
     </ul>
+    <h2>Assignments</h2>
+    <ul>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Python"><br/>1)Python Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/R"><br/>2)R Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Statistics"><br/>3)Statistics Assignments</a>
+    </ul>
+    <h2>Projects</h2>
+    <ul>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb"><br/>* Exploratory Data Analysis of Waiter's tips in Hotel</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb"><br/>* Creating Simple calculator by using 'tkinder'</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb"><br/>* Creating Simple Game</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb"><br/> * Hotel Management System </a>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Wine%20data%20analysis"><br/>6)Wine data analysis</a>
+      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects/Wordcloud"><br/>7)Wordcloud</a>
+    </ul>
+  </body
+    </html>
+Show quoted text
+    
+    
+    
+    
     
  #### Data Analysis and Visualization :
- 
 <html>
   <h2>contents</h2>
       <u1>
         <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
-        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb"<br/>* Exploratory Data Analysis of Waiter's tips in Hotel</a>
-        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb"<br/>* Creating Simple calculator by using 'tkinder'</a>
-        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb"<br/>* Creating Simple Game </a>
-        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb"<br/> * Hotel Management System</a>
-  
-  
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
                                                  
                                                  
  <html>
