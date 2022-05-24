@@ -11,9 +11,10 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
 
 ### Contents
 <ul>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Assignments"><br/>1)Assignments</a>
-      <a href="https://github.com/Snehacj/Edubridge-Data-Analytics/tree/main/Projects"><br/>2)Projects</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>1)Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>2)Projects</a>
     </ul>
+    
  #### Data Analysis and Visualization :
 <html>
   <h2>contents</h2>
