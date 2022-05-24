@@ -16,24 +16,17 @@ Python3 , R, Data Analysis, Statistical Modeling, Data Visualization, Statistics
     </ul>
     
  #### Data Analysis and Visualization :
+ 
 <html>
   <h2>contents</h2>
       <u1>
         <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb"<br/>* Exploratory Data Analysis of Waiter's tips in Hotel</a>
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb"<br/>* Creating Simple calculator by using 'tkinder'</a>
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb"<br/>* Creating Simple Game </a>
+        <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb"<br/> * Hotel Management System</a>
   
- 
   
-  * Exploratory Data Analysis of Waiter's tips in Hotel
-  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb](link)
-  
-  * Craeting Simple calculator by using 'tkinder'
-  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb](link)
-  
-  * Creating Simple Game 
-  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb](link)
-  
-  * Hotel Management System 
-  [https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb](link)
                                                  
                                                  
                                                  
