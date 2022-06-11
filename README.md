@@ -27,13 +27,14 @@ Statistics
     </ul>
     <h2>Projects</h2>
     <ul>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb"<br/>* Exploratory Data Analysis of Car Mileage</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb"><br/>* Exploratory Data Analysis of Waiter's tips in Hotel</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb"><br/>* Creating Simple calculator by using 'tkinder'</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb"><br/>* Creating Simple Game</a>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb"><br/> * Hotel Management System </a>
       
-                                                 
+                                                
                                                  
                                                  
                                                  
