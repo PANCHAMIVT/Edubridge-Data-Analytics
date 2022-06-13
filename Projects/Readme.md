@@ -26,7 +26,8 @@ Python3 , Data Analysis, Statistical Modeling, Data Visualization, Statistics,tk
   
   [* Hotel Management System](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb)
   
-  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)                                                     
+  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)       
+  
   [* Projects based on Statistics]( https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/STATISTICS)
    
 
