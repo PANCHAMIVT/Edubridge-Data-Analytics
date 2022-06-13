@@ -16,31 +16,33 @@ Statistics
 
 ### Contents
 <ul>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>1)Assignments</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>2)Projects</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>* Assignments</a>  
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>* Projects</a>
     </ul>
     <h2>Assignments</h2>
     <ul>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Python"><br/>1)Python Assignments</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/R"><br/>2)R Assignments</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Statistics"><br/>3)Statistics Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Python"><br/>* Python Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/R"><br/>* R Assignments</a>
+      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments/Statistics"><br/>* Statistics Assignments</a>
     </ul>
     <h2>Projects</h2>
     <ul>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb"<br/>* Exploratory Data Analysis of Car Mileage</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20IPL%20Matches/IPL%20Mathches%202008-2020.ipynb"<br/>* Exploratory Data Analysis of IPL Matches</a>
-      
-  <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb"<br/>* Exploratory Data Analysis of Automobile</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb"><br/>* Exploratory Data Analysis of Waiter's tips in Hotel</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb"><br/>* Creating Simple calculator by using 'tkinder'</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb"><br/>* Creating Simple Game</a>
-      <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb"><br/> * Hotel Management System </a>
-      
-                                                
-                                                 
-                                
-                                                 
-                                                 
+  
+  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb)
+  
+  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
+  
+  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20IPL%20Matches/IPL%20Mathches%202008-2020.ipynb)
+  
+  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb)
+  
+  [* Creating Simple Game](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb)
+  
+  [* Hotel Management System](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb)
+  
+  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)
+  
+                                               
                                                  
                                                  
                                                  
