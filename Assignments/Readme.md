@@ -10,5 +10,8 @@
 
 ## Tools ##
 
+* Jupyter notebook
+* Pandas
+* Numpy
 * R studio
 * Microsoft Word
