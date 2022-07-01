@@ -22,7 +22,7 @@ This same method can be followed to scrap any other data from any other site.
 
 ## Webscraping of Wikipedia using Python ##
 
-Link used for scraping :""https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population""
+Link used for scraping :"https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population"
 
 This is a technique to retrieve large amounts of data from the internet.
 This technique is highly useful in competitive pricing.there are different techniques involved in scrapping but the most common one is beautifulsoup.
