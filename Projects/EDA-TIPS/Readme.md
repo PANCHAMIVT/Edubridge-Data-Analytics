@@ -1,5 +1,7 @@
-![alt](C:\Users\Lenovo\Desktop\tips)
+![tips](https://user-images.githubusercontent.com/98824143/177033296-fa975c45-79f4-4006-bf10-ca7f7cdba721.jpg)
+
 **TIPS DATASET ANALYSIS**
+
 
 ## OBJECTIVE
 Predict the tips amount for each diner using the column tip as the target.
