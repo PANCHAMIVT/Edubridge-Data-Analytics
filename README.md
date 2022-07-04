@@ -1,20 +1,27 @@
 # Edubridge-Data-Analytics
-This repository contains all the Projects, Assignments, Competitions and Challenges of data science, presented in the form of Jupyter Notebooks.
+This repository contains all the Projects, Assignments, Competitions and Challenges of data science, done during my training at EduBridge during January-2021 - June 2022
 
 ## Tools
-  Python : Python3, NumPy, Pandas, Seaborn, Matplotlib,R
+* Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+* Machine Learning: scikit-learn
+* Statistics
+* Excel
+* Tableau
 
 ## Skills
-Python3
-R 
-Data Analysis 
-Statistical Modeling
-Data Visualization
-Statistics
+
+* Python3
+* R 
+* Machine Learning
+* Data Analysis 
+* Statistical Modeling
+* Data Visualization
+* Statistics
 
 ## Projects
 
 ### Contents
+* Machine Learning Case Studies :
 <ul>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>* Assignments</a>  
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>* Projects</a>
