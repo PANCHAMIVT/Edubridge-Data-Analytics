@@ -1,4 +1,6 @@
-![tips](https://user-images.githubusercontent.com/98824143/177033296-fa975c45-79f4-4006-bf10-ca7f7cdba721.jpg)
+
+![tips](https://user-images.githubusercontent.com/98824143/177114525-54235ad0-8eb0-4422-848f-e701ba715db3.jpg)
+
 
 # TIPS DATASET ANALYSIS #
 
