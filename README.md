@@ -46,17 +46,17 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   ### Exploratory Data Analysis
       
-  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
+  [* EDA - Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
   
-  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
+  [* EDA - IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
   
-  [* Exploratory Data Analysis of Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
+  [* EDA - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
   
-  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
+  [* EDA - Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
   
-  [* Exploratory Data Analysis of Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
+  [* EDA - Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
   
-  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
+  [* EDA - Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
   
   ### Exploratory Data Analysis using R
   
@@ -80,7 +80,7 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   [* Hotel Management System](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb)
   
-  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)
+  [* Creating Simple calculator by using 'tkinter'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)
   
   [* Creating Simple Game](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb)
   
