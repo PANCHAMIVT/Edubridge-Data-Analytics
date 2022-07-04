@@ -1,8 +1,9 @@
 
 
 
+![auto mpg](https://user-images.githubusercontent.com/98824143/177113638-98c1954c-6229-4a68-858f-81b70b2b8a12.jpg)
 
-![auto mpg](https://user-images.githubusercontent.com/98824143/177033424-bd106168-0048-4466-813e-3db77dce3ff0.jpg)
+
 
 ## Welcome to exploration and analysis of the auto mpg data set ##
 
