@@ -84,4 +84,4 @@ This repository contains all the Projects, Assignments, Competitions and Challen
 
 * [LinkdIn](https://www.linkedin.com/in/panchamivt18/)
 
-* [Gmail](panchamipanchu1729@gmail.com)
+* Gmail : panchamipanchu1729@gmail.com
