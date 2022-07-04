@@ -34,7 +34,10 @@ This repository contains all the Projects, Assignments, Competitions and Challen
     </ul>
     <h2>Projects</h2>
     <ul>
-  * Machine Learning Case Studies :
+    
+  ### Machine Learning Case Studies
+  
+  - [ML - Acoustic Fire](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20-%20Acoustic%20Fire)
       
   [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb)
   
