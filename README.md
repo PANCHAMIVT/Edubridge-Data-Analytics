@@ -80,5 +80,8 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   [* STATISTICS]( https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/STATISTICS) 
     
-  
-  
+## Connect with me on these platforms
+
+* [LinkdIn](https://www.linkedin.com/in/panchamivt18/)
+
+* [Gmail](panchamipanchu1729@gmail.com)
