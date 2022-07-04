@@ -1,8 +1,6 @@
 
 
-![images](https://user-images.githubusercontent.com/98824143/177033197-7540d242-aa51-417b-8e08-398822621c46.jpg)
-
-
+![corona11](https://user-images.githubusercontent.com/98824143/177103596-6a71437d-3c45-48e7-89d0-58b85340af2e.jpg)
 
 
 
