@@ -21,7 +21,7 @@ This repository contains all the Projects, Assignments, Competitions and Challen
 ## Projects
 
 ### Contents
-* Machine Learning Case Studies :
+
 <ul>
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Assignments"><br/>* Assignments</a>  
       <a href="https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects"><br/>* Projects</a>
@@ -34,7 +34,8 @@ This repository contains all the Projects, Assignments, Competitions and Challen
     </ul>
     <h2>Projects</h2>
     <ul>
-  
+  * Machine Learning Case Studies :
+      
   [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb)
   
   [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
