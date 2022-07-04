@@ -1,5 +1,5 @@
 # Edubridge-Data-Analytics
-This repository contains all the Projects, Assignments, Competitions and Challenges of data science, done during my training at EduBridge during January-2021 - June 2022
+This repository contains all the Projects, Assignments, Competitions and Challenges of data science, done during my training at EduBridge during January 2021 - June 2022
 
 ## Tools
 * Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
