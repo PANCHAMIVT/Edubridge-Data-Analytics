@@ -51,7 +51,7 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   [* Exploratory Data Analysis of Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
   
-  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
+  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
   
   [* Exploratory Data Analysis of Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
   
