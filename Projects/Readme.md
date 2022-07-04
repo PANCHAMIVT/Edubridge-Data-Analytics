@@ -34,17 +34,17 @@ This repository contains all project works using jupyter notebook during my trai
   
   ### Exploratory Data Analysis
       
-  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
+  [* EDA - Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
   
-  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
+  [* EDA - IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
   
-  [* Exploratory Data Analysis of Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
+  [* EDA - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
   
-  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
+  [* EDA - Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
   
-  [* Exploratory Data Analysis of Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
+  [* EDA - Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
   
-  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
+  [* EDA - Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
   
   ### Exploratory Data Analysis using R
   
