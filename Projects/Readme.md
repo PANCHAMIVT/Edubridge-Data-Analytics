@@ -52,6 +52,10 @@ This repository contains all project works using jupyter notebook during my trai
   
   [* R EDA - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/R%20EDA%20-%20Superstore)
   
+   ### Data Visualization -using Tableau
+      
+  [* Dashboard - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/Tableau%20Dashboard%20-%20Superstore)
+  
   ### Web Scraping
   
   [* Flipkart Webscraping](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/WebScraping/FlipKart%20-%20WebScrapping.ipynb)
