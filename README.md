@@ -45,9 +45,9 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   ### Exploratory Data Analysis
       
-  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb)
+  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
   
-  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20IPL%20Matches/IPL%20Mathches%202008-2020.ipynb)
+  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
   
   [* Exploratory Data Analysis of Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
   
