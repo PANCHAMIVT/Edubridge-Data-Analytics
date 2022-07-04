@@ -1,33 +1,70 @@
 
 # Projects
-Repository contains all the projects of Python presented in the form of Jupyter Notebooks.
+This repository contains all project works using jupyter notebook during my trainning at EduBridge and also the datasets used for the purpose
 
 ## Tools
 
-Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
+* Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+* Machine Learning: scikit-learn
+* Statistics
+* Excel
+
 
 ## Skills
 
-Python3 , Data Analysis, Statistical Modeling, Data Visualization, Statistics,tkinder
+* Python3
+* R 
+* Machine Learning
+* Data Analysis 
+* Statistical Modeling
+* Data Visualization
+* Statistics
 
 ## Contents
 
- ### Data Analysis and Visualization :
-
-  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20Car%20Mileage/Car%20Mileage%20-%20EDA.ipynb)
+ ### Machine Learning Case Studies
   
-  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-Automobile/Automobile.ipynb)
+  - [ML - Bike Buyers](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20%26%20EDA%20-%20Bike%20Buyers) : we Analyse and predict the odds off a customer when he will buy a bike.
   
-  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA%20-%20IPL%20Matches/IPL%20Mathches%202008-2020.ipynb)
+  - [ML - Acoustic Fire](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20-%20Acoustic%20Fire) : we Analyse and predict the effect of different frequency of a sound wave on diffrent fuel flames.
   
-  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb)
+  - [ML - Drug Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20-%20Drug%20Analysis) : Build a model to predict the outcome of the drugs that might be accurate for the patient.
   
-  [* Creating Simple Game](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb)
+  - [ML - Spam Detection](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20-%20Spam%20Detection) : The objective of the dataset is to predict the SMS spam .
+  
+  ### Exploratory Data Analysis
+      
+  [* Exploratory Data Analysis of Car Mileage](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Car%20Mileage)
+  
+  [* Exploratory Data Analysis of IPL Matches](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20IPL%20Matches)
+  
+  [* Exploratory Data Analysis of Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA%20-%20Superstore%20Analysis)
+  
+  [* Exploratory Data Analysis of Automobile](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Automobile)
+  
+  [* Exploratory Data Analysis of Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
+  
+  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
+  
+  ### Exploratory Data Analysis using R
+  
+  [* R EDA - Bike Buyers](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/R%20-%20EDA%20-%20Bike%20Buyers)
+  
+  [* R EDA - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/R%20EDA%20-%20Superstore)
+  
+  ### Web Scraping
+  
+  [* Flipkart Webscraping](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/WebScraping/FlipKart%20-%20WebScrapping.ipynb)
+  
+  [* Wikipedia Webscraping](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/WebScraping/Wikipedia%20-%20Webscrapping.ipynb)
+  
+  
+  ### Other Projects
   
   [* Hotel Management System](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Hotel%20Management/HOTEL%20MANAGMENT%20SYSTEM.ipynb)
   
-  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)       
+  [* Creating Simple calculator by using 'tkinder'](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/Simple%20Calculator/CALCULATOR.ipynb)
   
-  [* Projects based on Statistics]( https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/STATISTICS)
-   
-
+  [* Creating Simple Game](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/GAME/Simple%20Quiz/SIMPLE%20QUIZ.ipynb)
+  
+  [* STATISTICS]( https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/STATISTICS) 
