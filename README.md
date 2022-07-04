@@ -55,7 +55,7 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   [* Exploratory Data Analysis of Covid Analysis](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/EDA-Covid%20Analysis%20World%202020)
   
-  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/EDA-TIPS.ipynb)
+  [* Exploratory Data Analysis of Waiter's tips in Hotel](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/EDA-TIPS/Readme.md)
   
   ### Exploratory Data Analysis using R
   
