@@ -32,7 +32,8 @@ This repository contains all the Projects, Assignments, Competitions and Challen
     </ul>
     <h2>Projects</h2>
     <ul>
-    
+  
+      
   ### Machine Learning Case Studies
   
   - [ML - Bike Buyers](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/ML%20%26%20EDA%20-%20Bike%20Buyers) : we Analyse and predict the odds off a customer when he will buy a bike.
@@ -63,6 +64,11 @@ This repository contains all the Projects, Assignments, Competitions and Challen
   
   [* R EDA - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/R%20EDA%20-%20Superstore)
   
+  
+  ### Data Visualization -using Tableau
+      
+  [* Dashboard - Superstore](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/tree/main/Projects/Tableau%20Dashboard%20-%20Superstore)
+      
   ### Web Scraping
   
   [* Flipkart Webscraping](https://github.com/PANCHAMIVT/Edubridge-Data-Analytics/blob/main/Projects/WebScraping/FlipKart%20-%20WebScrapping.ipynb)
